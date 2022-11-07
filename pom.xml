@@ -20,5 +20,6 @@
         <module>gulimall-menber</module>
         <module>gulimall-order</module>
         <module>gulimall-ware</module>
+        <module>renren-fast</module>
     </modules>
 </project>
